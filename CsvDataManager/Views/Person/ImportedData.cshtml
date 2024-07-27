@@ -1,0 +1,39 @@
+﻿@model IEnumerable<CsvDataManager.Models.Person>
+
+@{
+    ViewData["Title"] = "Display Imported Data";
+}
+
+<h1>Imported Data</h1>
+
+<div class="container mt-4">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Identity</th>
+                <th>First Name</th>
+                <th>Surname</th>
+                <th>Age</th>
+                <th>Sex</th>
+                <th>Mobile</th>
+                <th>Active</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var person in Model)
+            {
+                <tr>
+                    <td>@person.Identity</td>
+                    <td>@person.FirstName</td>
+                    <td>@person.Surname</td>
+                    <td>@person.Age</td>
+                    <td>@person.Sex</td>
+                    <td>@person.Mobile</td>
+                    <td>@person.Active</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a asp-action="Index" class="btn btn-secondary mt-3">Back to List</a>
+</div>

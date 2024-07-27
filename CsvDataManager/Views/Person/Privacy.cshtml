@@ -1,0 +1,52 @@
+﻿@model List<CsvDataManager.Models.Person>
+
+@{
+    ViewData["Title"] = "Person List";
+}
+
+<h2>Person List</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+
+<div class="container mt-4">
+    @if (Model != null && Model.Any())
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>First Name</th>
+                    <th>Surname</th>
+                    <th>Age</th>
+                    <th>Sex</th>
+                    <th>Mobile</th>
+                    <th>Active</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var person in Model)
+                {
+                    <tr>
+                        <td>@person.FirstName</td>
+                        <td>@person.Surname</td>
+                        <td>@person.Age</td>
+                        <td>@person.Sex</td>
+                        <td>@person.Mobile</td>
+                        <td>@person.Active</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="alert alert-info">No persons available.</div>
+    }
+</div>

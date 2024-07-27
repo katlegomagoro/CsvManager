@@ -1,0 +1,56 @@
+﻿@model CsvDataManager.Models.Person
+
+@{
+    ViewData["Title"] = "Create New Person";
+}
+
+<h1>Create New Person</h1>
+
+<div class="container mt-4">
+    <form asp-action="Create" method="post">
+        <div class="form-group">
+            <label asp-for="FirstName" class="form-label">First Name</label>
+            <input asp-for="FirstName" class="form-control" required />
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Surname" class="form-label">Surname</label>
+            <input asp-for="Surname" class="form-control" required />
+            <span asp-validation-for="Surname" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Age" class="form-label">Age</label>
+            <input asp-for="Age" type="number" class="form-control" required />
+            <span asp-validation-for="Age" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Sex" class="form-label">Sex</label>
+            <select asp-for="Sex" class="form-control" required>
+                <option value="">Select...</option>
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
+                <option value="Other">Other</option>
+            </select>
+            <span asp-validation-for="Sex" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Mobile" class="form-label">Mobile</label>
+            <input asp-for="Mobile" class="form-control" required pattern="^[0-9]{10}$" />
+            <span asp-validation-for="Mobile" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Active" class="form-label">Active</label>
+            <input asp-for="Active" type="checkbox" class="form-check-input" />
+        </div>
+        <div class="form-group mt-3">
+            <button type="submit" class="btn btn-primary">Save</button>
+            <button type="reset" class="btn btn-secondary">Clear</button>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

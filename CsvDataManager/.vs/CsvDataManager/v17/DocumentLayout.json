@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\views\\person\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:views\\person\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\views\\person\\importeddata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:views\\person\\importeddata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\views\\person\\import.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:views\\person\\import.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\views\\person\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:views\\person\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\views\\person\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:views\\person\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\migrations\\20240725101451_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:migrations\\20240725101451_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|c:\\users\\13933\\source\\repos\\katlegomagoro\\csvmanager\\csvdatamanager\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CC799A1D-FE5C-47A9-8ACE-20D60BCA8FB5}|CsvDataManager.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Person\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Person\\Create.cshtml",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Person\\Create.cshtml",
+              "RelativeToolTip": "Views\\Person\\Create.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvzgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T08:28:30.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Person\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Person\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Person\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Person\\Edit.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvy8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T08:50:04.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Person\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Person\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Person\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Person\\Delete.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvx8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T08:28:50.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwDYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:33:02.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Controllers\\PersonController.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAcwOIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:25:47.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Import.cshtml",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Person\\Import.cshtml",
+              "RelativeDocumentMoniker": "Views\\Person\\Import.cshtml",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Person\\Import.cshtml",
+              "RelativeToolTip": "Views\\Person\\Import.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAADwvz4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T09:15:00.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Person\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Person\\Index.cshtml",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Person\\Index.cshtml",
+              "RelativeToolTip": "Views\\Person\\Index.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvzQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T08:40:44.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImportedData.cshtml",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Person\\ImportedData.cshtml",
+              "RelativeDocumentMoniker": "Views\\Person\\ImportedData.cshtml",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Person\\ImportedData.cshtml",
+              "RelativeToolTip": "Views\\Person\\ImportedData.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvycAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T10:51:11.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Person\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Person\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Person\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Person\\Privacy.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T09:43:20.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:27:17.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T08:32:32.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Extensions\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Extensions\\SessionExtensions.cs",
+              "RelativeToolTip": "Extensions\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:19:54.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:26:39.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:15:07.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240725101451_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Migrations\\20240725101451_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240725101451_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Migrations\\20240725101451_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240725101451_InitialCreate.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:15:03.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T09:45:40.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T09:45:58.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T09:46:11.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T09:28:57.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T09:30:50.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:44:49.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\13933\\source\\repos\\katlegomagoro\\CsvManager\\CsvDataManager\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-25T09:21:09.235Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
