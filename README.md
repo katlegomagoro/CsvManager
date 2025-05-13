@@ -76,7 +76,6 @@ CsvHelper: Parses CSV files for data import.
 For any questions or support, please contact:
 Name: Katlego Magoro
 Email: katlegomagoro98@gmail.com
-Phone: +27 66 288 4270
 LinkedIn: https://www.linkedin.com/in/katlego-magoro-288b08236/
 Feel free to reach out with any inquiries or feedback regarding the application.
 
